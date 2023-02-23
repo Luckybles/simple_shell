@@ -1,1 +1,0 @@
-this is a colloborative project with me and my partner on how to build a shell as the mark making it to the next stage in the alx software enginerring course

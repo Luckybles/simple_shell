@@ -54,6 +54,7 @@ char **list_to_strings(list_t *head)
 	return (strs);
 }
 
+
 /**
  * print_list - prints all elements of a list_t linked list
  * @h: pointer to first node
@@ -119,3 +120,4 @@ ssize_t get_node_index(list_t *head, list_t *node)
 	}
 	return (-1);
 }
+
